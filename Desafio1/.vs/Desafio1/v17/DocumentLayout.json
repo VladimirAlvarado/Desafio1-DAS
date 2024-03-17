@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\GUASI\\Documents\\GitHub\\Desafio1-DAS\\Desafio1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F866EA9A-2123-489C-8CAB-A8827EE430F3}|Desafio1.csproj|c:\\users\\guasi\\documents\\github\\desafio1-das\\desafio1\\information.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F866EA9A-2123-489C-8CAB-A8827EE430F3}|Desafio1.csproj|solutionrelative:information.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F866EA9A-2123-489C-8CAB-A8827EE430F3}|Desafio1.csproj|c:\\users\\guasi\\documents\\github\\desafio1-das\\desafio1\\information.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F866EA9A-2123-489C-8CAB-A8827EE430F3}|Desafio1.csproj|solutionrelative:information.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F866EA9A-2123-489C-8CAB-A8827EE430F3}|Desafio1.csproj|c:\\users\\guasi\\documents\\github\\desafio1-das\\desafio1\\information.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F866EA9A-2123-489C-8CAB-A8827EE430F3}|Desafio1.csproj|solutionrelative:information.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F866EA9A-2123-489C-8CAB-A8827EE430F3}|Desafio1.csproj|c:\\users\\guasi\\documents\\github\\desafio1-das\\desafio1\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F866EA9A-2123-489C-8CAB-A8827EE430F3}|Desafio1.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F866EA9A-2123-489C-8CAB-A8827EE430F3}|Desafio1.csproj|c:\\users\\guasi\\documents\\github\\desafio1-das\\desafio1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F866EA9A-2123-489C-8CAB-A8827EE430F3}|Desafio1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F866EA9A-2123-489C-8CAB-A8827EE430F3}|Desafio1.csproj|c:\\users\\guasi\\documents\\github\\desafio1-das\\desafio1\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F866EA9A-2123-489C-8CAB-A8827EE430F3}|Desafio1.csproj|solutionrelative:login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F866EA9A-2123-489C-8CAB-A8827EE430F3}|Desafio1.csproj|c:\\users\\guasi\\documents\\github\\desafio1-das\\desafio1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F866EA9A-2123-489C-8CAB-A8827EE430F3}|Desafio1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F866EA9A-2123-489C-8CAB-A8827EE430F3}|Desafio1.csproj|c:\\users\\guasi\\documents\\github\\desafio1-das\\desafio1\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F866EA9A-2123-489C-8CAB-A8827EE430F3}|Desafio1.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F866EA9A-2123-489C-8CAB-A8827EE430F3}|Desafio1.csproj|c:\\users\\guasi\\documents\\github\\desafio1-das\\desafio1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F866EA9A-2123-489C-8CAB-A8827EE430F3}|Desafio1.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\GUASI\\Documents\\GitHub\\Desafio1-DAS\\Desafio1\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\GUASI\\Documents\\GitHub\\Desafio1-DAS\\Desafio1\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T20:45:09.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\GUASI\\Documents\\GitHub\\Desafio1-DAS\\Desafio1\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\GUASI\\Documents\\GitHub\\Desafio1-DAS\\Desafio1\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T16:57:40.821Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\GUASI\\Documents\\GitHub\\Desafio1-DAS\\Desafio1\\Login.Designer.cs",
+              "RelativeDocumentMoniker": "Login.Designer.cs",
+              "ToolTip": "C:\\Users\\GUASI\\Documents\\GitHub\\Desafio1-DAS\\Desafio1\\Login.Designer.cs",
+              "RelativeToolTip": "Login.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T16:57:35.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Information.cs",
+              "DocumentMoniker": "C:\\Users\\GUASI\\Documents\\GitHub\\Desafio1-DAS\\Desafio1\\Information.cs",
+              "RelativeDocumentMoniker": "Information.cs",
+              "ToolTip": "C:\\Users\\GUASI\\Documents\\GitHub\\Desafio1-DAS\\Desafio1\\Information.cs",
+              "RelativeToolTip": "Information.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAAwEIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T16:55:37.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\GUASI\\Documents\\GitHub\\Desafio1-DAS\\Desafio1\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "C:\\Users\\GUASI\\Documents\\GitHub\\Desafio1-DAS\\Desafio1\\Login.cs",
+              "RelativeToolTip": "Login.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAIA7wCUAAAB8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T16:57:59.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Information.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\GUASI\\Documents\\GitHub\\Desafio1-DAS\\Desafio1\\Information.Designer.cs",
+              "RelativeDocumentMoniker": "Information.Designer.cs",
+              "ToolTip": "C:\\Users\\GUASI\\Documents\\GitHub\\Desafio1-DAS\\Desafio1\\Information.Designer.cs",
+              "RelativeToolTip": "Information.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T16:57:28.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Information.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\GUASI\\Documents\\GitHub\\Desafio1-DAS\\Desafio1\\Information.cs",
+              "RelativeDocumentMoniker": "Information.cs",
+              "ToolTip": "C:\\Users\\GUASI\\Documents\\GitHub\\Desafio1-DAS\\Desafio1\\Information.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Information.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T16:57:20.774Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\GUASI\\Documents\\GitHub\\Desafio1-DAS\\Desafio1\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "C:\\Users\\GUASI\\Documents\\GitHub\\Desafio1-DAS\\Desafio1\\Login.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Login.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T16:55:08.966Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\GUASI\\Documents\\GitHub\\Desafio1-DAS\\Desafio1\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\GUASI\\Documents\\GitHub\\Desafio1-DAS\\Desafio1\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T16:57:44.162Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
