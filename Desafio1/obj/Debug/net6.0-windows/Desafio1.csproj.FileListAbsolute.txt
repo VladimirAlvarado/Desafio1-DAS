@@ -1,0 +1,47 @@
+D:\Ezequiel\Proyectos vs\Desafio1\bin\Debug\net6.0-windows\Desafio1.exe
+D:\Ezequiel\Proyectos vs\Desafio1\bin\Debug\net6.0-windows\Desafio1.deps.json
+D:\Ezequiel\Proyectos vs\Desafio1\bin\Debug\net6.0-windows\Desafio1.runtimeconfig.json
+D:\Ezequiel\Proyectos vs\Desafio1\bin\Debug\net6.0-windows\Desafio1.dll
+D:\Ezequiel\Proyectos vs\Desafio1\bin\Debug\net6.0-windows\Desafio1.pdb
+D:\Ezequiel\Proyectos vs\Desafio1\obj\Debug\net6.0-windows\Desafio1.csproj.AssemblyReference.cache
+D:\Ezequiel\Proyectos vs\Desafio1\obj\Debug\net6.0-windows\Desafio1.csproj.GenerateResource.cache
+D:\Ezequiel\Proyectos vs\Desafio1\obj\Debug\net6.0-windows\Desafio1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ezequiel\Proyectos vs\Desafio1\obj\Debug\net6.0-windows\Desafio1.AssemblyInfoInputs.cache
+D:\Ezequiel\Proyectos vs\Desafio1\obj\Debug\net6.0-windows\Desafio1.AssemblyInfo.cs
+D:\Ezequiel\Proyectos vs\Desafio1\obj\Debug\net6.0-windows\Desafio1.csproj.CoreCompileInputs.cache
+D:\Ezequiel\Proyectos vs\Desafio1\obj\Debug\net6.0-windows\Desafio1.dll
+D:\Ezequiel\Proyectos vs\Desafio1\obj\Debug\net6.0-windows\refint\Desafio1.dll
+D:\Ezequiel\Proyectos vs\Desafio1\obj\Debug\net6.0-windows\Desafio1.pdb
+D:\Ezequiel\Proyectos vs\Desafio1\obj\Debug\net6.0-windows\Desafio1.genruntimeconfig.cache
+D:\Ezequiel\Proyectos vs\Desafio1\obj\Debug\net6.0-windows\ref\Desafio1.dll
+D:\Ezequiel\Proyectos vs\Desafio1\obj\Debug\net6.0-windows\Desafio1.FormWelcome.resources
+D:\Ezequiel\Proyectos vs\Desafio1\obj\Debug\net6.0-windows\Desafio1.FormLogin.resources
+D:\Ezequiel\Proyectos vs\Desafio1\obj\Debug\net6.0-windows\Desafio1.Properties.Resources.resources
+D:\Ezequiel\Proyectos vs\Desafio1\obj\Debug\net6.0-windows\Desafio1.FormInformation.resources
+D:\Ezequiel\Proyectos vs\Desafio1\bin\Debug\net6.0-windows\ScottPlot.dll
+D:\Ezequiel\Proyectos vs\Desafio1\bin\Debug\net6.0-windows\ScottPlot.WinForms.dll
+D:\Ezequiel\Proyectos vs\Desafio1\obj\Debug\net6.0-windows\Desafio1.csproj.CopyComplete
+C:\Users\GUASI\Documents\GitHub\Desafio1-DAS\Desafio1\bin\Debug\net6.0-windows\Desafio1.exe
+C:\Users\GUASI\Documents\GitHub\Desafio1-DAS\Desafio1\bin\Debug\net6.0-windows\Desafio1.deps.json
+C:\Users\GUASI\Documents\GitHub\Desafio1-DAS\Desafio1\bin\Debug\net6.0-windows\Desafio1.runtimeconfig.json
+C:\Users\GUASI\Documents\GitHub\Desafio1-DAS\Desafio1\bin\Debug\net6.0-windows\Desafio1.dll
+C:\Users\GUASI\Documents\GitHub\Desafio1-DAS\Desafio1\bin\Debug\net6.0-windows\Desafio1.pdb
+C:\Users\GUASI\Documents\GitHub\Desafio1-DAS\Desafio1\bin\Debug\net6.0-windows\ScottPlot.dll
+C:\Users\GUASI\Documents\GitHub\Desafio1-DAS\Desafio1\bin\Debug\net6.0-windows\ScottPlot.WinForms.dll
+C:\Users\GUASI\Documents\GitHub\Desafio1-DAS\Desafio1\obj\Debug\net6.0-windows\Desafio1.csproj.AssemblyReference.cache
+C:\Users\GUASI\Documents\GitHub\Desafio1-DAS\Desafio1\obj\Debug\net6.0-windows\Desafio1.FormWelcome.resources
+C:\Users\GUASI\Documents\GitHub\Desafio1-DAS\Desafio1\obj\Debug\net6.0-windows\Desafio1.FormInformation.resources
+C:\Users\GUASI\Documents\GitHub\Desafio1-DAS\Desafio1\obj\Debug\net6.0-windows\Desafio1.FormLogin.resources
+C:\Users\GUASI\Documents\GitHub\Desafio1-DAS\Desafio1\obj\Debug\net6.0-windows\Desafio1.Properties.Resources.resources
+C:\Users\GUASI\Documents\GitHub\Desafio1-DAS\Desafio1\obj\Debug\net6.0-windows\Desafio1.csproj.GenerateResource.cache
+C:\Users\GUASI\Documents\GitHub\Desafio1-DAS\Desafio1\obj\Debug\net6.0-windows\Desafio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GUASI\Documents\GitHub\Desafio1-DAS\Desafio1\obj\Debug\net6.0-windows\Desafio1.AssemblyInfoInputs.cache
+C:\Users\GUASI\Documents\GitHub\Desafio1-DAS\Desafio1\obj\Debug\net6.0-windows\Desafio1.AssemblyInfo.cs
+C:\Users\GUASI\Documents\GitHub\Desafio1-DAS\Desafio1\obj\Debug\net6.0-windows\Desafio1.csproj.CoreCompileInputs.cache
+C:\Users\GUASI\Documents\GitHub\Desafio1-DAS\Desafio1\obj\Debug\net6.0-windows\Desafio1.sourcelink.json
+C:\Users\GUASI\Documents\GitHub\Desafio1-DAS\Desafio1\obj\Debug\net6.0-windows\Desafio1.csproj.Up2Date
+C:\Users\GUASI\Documents\GitHub\Desafio1-DAS\Desafio1\obj\Debug\net6.0-windows\Desafio1.dll
+C:\Users\GUASI\Documents\GitHub\Desafio1-DAS\Desafio1\obj\Debug\net6.0-windows\refint\Desafio1.dll
+C:\Users\GUASI\Documents\GitHub\Desafio1-DAS\Desafio1\obj\Debug\net6.0-windows\Desafio1.pdb
+C:\Users\GUASI\Documents\GitHub\Desafio1-DAS\Desafio1\obj\Debug\net6.0-windows\Desafio1.genruntimeconfig.cache
+C:\Users\GUASI\Documents\GitHub\Desafio1-DAS\Desafio1\obj\Debug\net6.0-windows\ref\Desafio1.dll
